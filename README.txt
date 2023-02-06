@@ -1,0 +1,2 @@
+将班级名单导入到classmates.txt以使用本软件
+Copyright@dovezan2023
